@@ -1,0 +1,15 @@
+<package>
+  <description brief="lab4">
+
+     lab4
+
+  </description>
+  <author>My</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/lab4</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+
+</package>
